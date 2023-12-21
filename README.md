@@ -10,9 +10,9 @@
  
   
   
-  <h1 align="center">Hi 👋, I'm Muhammad Essa 514</h1>
+  <h1 align="center">Hi 👋, I'm Jack</h1>
 
-<h3 align="center">Frontend Web Developer In Custom || WordPress Developer</h3>
+<h3 align="center">Web analysier</h3>
 
  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg"/>
 <img src="https://github.com/taniyow/taniyow/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
